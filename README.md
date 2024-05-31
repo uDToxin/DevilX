@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://te.legra.ph/file/acc2d2f9d5544b3312180.jpg"
 
-<p
+<p></p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
