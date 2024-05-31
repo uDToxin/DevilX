@@ -6,7 +6,7 @@ from pyrogram.types import (
 from youtubesearchpython.__future__ import VideosSearch
 
 from DEVIL import app
-from DEVIL.utils.inlinequery import answer
+from DEVIL.utils.inline.query import answer
 from config import BANNED_USERS
 
 
