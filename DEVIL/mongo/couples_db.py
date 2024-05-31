@@ -1,4 +1,4 @@
-from DEVIL.utils.mongo import db.couple
+from DEVIL.utils.mongo import db
 
 coupledb = db.couple
 
