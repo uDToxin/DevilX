@@ -26,7 +26,7 @@ from config import BANNED_USERS, lyrical
 
 
 @app.on_message(
-   filters.command(["play", "vplay", "cplay", "Dev", "CANIKK", "Venikk", "Candy", "aaru", "unnati"] ,prefixes=["/", "!", ".", "?"])
+   filters.command(["play", "vplay", "opcanikk", "Dev", "opcandy", "nikk", "opvenikk", "aaru", "unnati"] ,prefixes=["/", "!", ".", "?"])
             
     & filters.group
     & ~BANNED_USERS
